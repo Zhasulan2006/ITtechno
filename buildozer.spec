@@ -15,7 +15,7 @@ source.include_exts = py,png,jpg,kv,atlas
 source.main = main.py
 
 # Иконка приложения
-icon.filename = %(source.dir)s/data/logo/logo.png
+icon.filename = %(source.dir)s/logo.png
 
 # Версия приложения
 version = 0.1
